@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bhavya Gulati</h1>
 <h3 align="center">A passionate web developer from India</h3>
 
-- 🌱 I’m currently learning **Tailwind CSS**
+- 🌱 I’m currently learning **NEXT.JS**
 
 - 🤝 I’m looking for help with **DSA**
 
